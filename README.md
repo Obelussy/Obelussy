@@ -1,2 +1,3 @@
 # Obelussy
-I am a weirdo.
+I am a beginner
+
